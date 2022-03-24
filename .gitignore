@@ -1,0 +1,13 @@
+/.idea/
+/env/
+/venv/
+/config/core/migrations/
+/config/media/
+/config/static/
+/migrations/
+/data/db/
+*.log
+.env
+db.sqlite3
+acme.json
+.htpasswd
